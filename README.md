@@ -122,7 +122,7 @@ SOURCE_PROVENANCE.json    Source snapshot checksums and packaging changes
 CITATION.cff              Citation metadata
 ```
 
-The roughly 700 MB of additional raw multi-seed histories and generated instances are not bundled. They can be regenerated with the full-run commands. Included summary tables and figures retain the original recorded timing results; rerunning on another machine will not reproduce those times bit-for-bit. All synthetic instance generators and numerical algorithms required for rerunning are included. The internal modules preserve some historical implementation options; only the methods and command-line protocols documented here are supported.
+
 
 ## Citation and license
 
